@@ -7,6 +7,14 @@
  
  学无止境！！！！！
 
+📌  结构
+
+brain-dump/
+├── Linux/
+├── random-ideas.md
+├── temp-experiments/
+└── notes/
+
 📌 文件命名规则
 
   格式：Linux知识碎片_YYYYMMDD_持续更新_v版本号.docx
@@ -29,5 +37,5 @@
       
       vX.Y.Z
       X（主版本）：合并知识内容。
-      Y（次版本）：合并部分识内容。
-      Z（修订号）：修改知识内容。
+      Y（次版本）：合并或修改部分识内容。
+      Z（修订号）：每天学习的内容。
